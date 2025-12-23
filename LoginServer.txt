@@ -1,0 +1,5 @@
+VERSION 1
+SERVER_BEGIN
+TL Kim Dung,Ðào Hoa Tr§n,1,101,3,1,0,Thien Long Kim Dung,45.122.244.109:6200,,,
+TL Kim Dung,Phøc H± Quy«n,1,102,3,1,0,Thien Long Kim Dung,45.122.244.109:6400,,,
+SERVER_END
