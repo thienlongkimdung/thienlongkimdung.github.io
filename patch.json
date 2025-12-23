@@ -1,4 +1,45 @@
 {
-	"url":"https://kimdungtl.com",
-	"domain":"kimdungtl.com"
+  "listserver": "https://thienlongkimdung.github.io/LoginServer.txt",
+
+  "modules": {
+  }
+	
+  "links": {
+    "home": "https://kimdungtl.com",
+    "group": "https://www.facebook.com/TTLKD",
+    "register": "https://www.facebook.com/groups/thienlongkimdung"
+  },
+
+  "news": [
+    {
+      "title": "[10-01] Tieu De Tin Tuc So 1!",
+      "url": "https://mygame.com/news/update-1"
+    },
+    {
+      "title": "[10-02] Tieu De Tin Tuc So 2!",
+      "url": "https://mygame.com/news/update-2"
+    },
+    {
+      "title": "[10-03] Tieu De Tin Tuc So 3!",
+      "url": "https://mygame.com/news/update-3"
+    },
+    {
+      "title": "[10-04] Tieu De Tin Tuc So 4!",
+      "url": "https://mygame.com/news/update-4"
+    },
+    {
+      "title": "[10-05] Tieu De Tin Tuc So 5!",
+      "url": "https://mygame.com/news/update-5"
+    },
+	{
+      "title": "[10-06] Tieu De Tin Tuc So 6!",
+      "url": "https://mygame.com/news/update-6"
+    },
+	{
+      "title": "[10-07] Tieu De Tin Tuc So 7!",
+      "url": "https://mygame.com/news/update-7"
+    }
+  ],
+
+
 }
