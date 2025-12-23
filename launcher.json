@@ -2,7 +2,7 @@
   "listserver": "https://thienlongkimdung.github.io/LoginServer.txt",
 
   "modules": {
-  }
+  },
 	
   "links": {
     "home": "https://kimdungtl.com",
@@ -39,7 +39,6 @@
       "title": "[10-07] Tieu De Tin Tuc So 7!",
       "url": "https://mygame.com/news/update-7"
     }
-  ],
-
+  ]
 
 }
